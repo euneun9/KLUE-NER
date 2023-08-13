@@ -20,4 +20,5 @@ https://github.com/rickiepark/nlp-with-transformers/blob/main/04_multilingual-ne
 다중 언어 개체명 인식에 관한 코드를 한국어 NER 데이터셋에 대한 예측 모델로 수정
 
 dataset: klue
+
 model: skt/kogpt2-base-v2
